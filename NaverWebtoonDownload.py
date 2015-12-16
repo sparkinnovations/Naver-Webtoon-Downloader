@@ -29,7 +29,7 @@ import time
 import os, cStringIO
 
 
-#####################   consider as constant   #####################
+#####################   constants   #####################
 def WEB_TOON_ID() :
     # get webtoon id from naver webtoon url(?titleId=WEB_TOON_ID).
     # return 119874 # denma
