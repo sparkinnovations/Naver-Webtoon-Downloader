@@ -5,21 +5,12 @@
                                                                                                             - Version: 0.0.2
 
 
-Author: Jeong Minu ( last 4. 17. 2014 )
-support: minu.hanwool@gmail.com
-
-Python version
-    Python 2.7.6: mechanize is not fully stable with Python 3.
-    mechanize port to Python 3 is on progress.
+Author: Minu Jeong
+contact: minu.hanwool@gmail.com
 
 Dependencies
-    mechanize 0.2.5
-        http://wwwsearch.sourceforge.net/mechanize/
-        usage: fake browsing.
-
-    BeautifulSoup 4.3.2
-        http://www.crummy.com/software/BeautifulSoup/
-        usage: parsing HTML document.
+    mechanize
+    BeautifulSoup
 '''
 
 #####################   import modules   #####################
