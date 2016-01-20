@@ -132,7 +132,7 @@ class NaverWebtoonCrawler :
 
             Log ("attemp: save to file ")
             # write to file
-            file = open("%s/page_%d.jpg" % (dirs, pageNumber), "w")
+            file = open("%s/page_%d.jpg" % (dirs, pageNumber), "wb")
             file.write(data)
             file.close()
 
